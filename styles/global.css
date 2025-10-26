@@ -5,11 +5,13 @@
 }
 
 body {
-  width: 1100px;
+  max-width: 1100px;
+  min-width: 320px;
   margin: 0 auto;
   font-family: Raleway, sans-serif;
   background: #fff;
   font-weight: 400;
+  overflow-x: hidden;
 }
 
 h1,
