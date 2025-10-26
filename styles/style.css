@@ -35,12 +35,6 @@
     text-underline-offset: 3.5px;
 }
 
-.lots__look-more-link {
-    text-decoration: underline;
-    text-decoration-skip-ink: none;
-    text-underline-offset: 4.5px;
-}
-
 .header__links-list {
     display: flex;
     flex-direction: row;
@@ -309,6 +303,9 @@
     padding-top: 30px;
     padding-left: 40px;
     color: #000;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    text-underline-offset: 4.5px;
 }
 
 .about {
